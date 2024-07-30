@@ -58,6 +58,11 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allow
 
 For other Linux distributions, you can typically install Node.js using their package manager. For example, on Fedora, you can use `dnf`, and on CentOS, you can use `yum`.
 
+## Steps to Run Branch
+npm install
+node "filename"
+
+
 ## Conclusion
 
 Hooray! 🎉 You've now got Node.js up and running like a well-oiled machine on your system. Time to unleash your coding creativity and build something amazing! Whether you're crafting sleek web apps or tinkering with server-side magic, Node.js is your trusty sidekick on this coding adventure. So, grab your favourite beverage, put on your coding socks, and let the fun begin! Happy coding! 😄🚀
